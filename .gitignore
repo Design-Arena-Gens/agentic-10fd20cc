@@ -898,6 +898,16 @@ config/database.yml
 *.csr
 *.der
 
+# Temporary research artifacts
+zuhd.txt
+diwan.txt
+diwan1.txt
+list.json
+ibn.json
+zuhd.json
+shapath.json
+tree.html
+
 # Backup files
 *.bak
 *.backup
